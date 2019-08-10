@@ -8,6 +8,8 @@ more changes from myfeature branch
 
 Sample website with plenty of files for demos
 good example
+
+Quick change
 ## Another Section
 
 this is another section
