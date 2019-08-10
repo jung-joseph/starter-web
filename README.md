@@ -15,3 +15,7 @@ more stuff
 
 ## More Sections
 More stuffff
+
+### Copyright
+
+Adding copyright notice
